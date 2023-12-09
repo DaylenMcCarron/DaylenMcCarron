@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DaylenMcCarron
-- 👀 I’m interested in Web Development currently but have the aspirations to be a cloud architect
-- 🌱 I’m currently learning JavaScript & Css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development and Game Development
+- 🌱 Technologies I know: MERN Stack, Unity3D, Blender, Linux.
+- 📫 daylenricardomccarron@gmail.com
 
 <!---
 DaylenMcCarron/DaylenMcCarron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
